@@ -1,0 +1,5 @@
+10;Général
+20;Descente
+30;Super-G
+40;Géant
+50;Slalom
