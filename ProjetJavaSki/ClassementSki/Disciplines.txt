@@ -3,3 +3,4 @@
 30;Super-G
 40;Géant
 50;Slalom
+50;Esquive
